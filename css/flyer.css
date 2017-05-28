@@ -1,0 +1,18 @@
+.portfolio {
+    top: 15em;
+    padding: 5em;
+}
+
+#team {
+    position: absolute;
+    left: 20em;
+    top: 40em;
+}
+
+.leftkintele {
+    right: 8em;
+}
+
+.contact {
+    padding: 5em;
+}

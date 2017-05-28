@@ -1,0 +1,74 @@
+#sunrise {
+    position: absolute;
+    right: 9em;
+    top: 15em;
+}
+
+.leftaboutus {
+    left: 5em;
+}
+
+#team {
+    position: absolute;
+    left: 9em;
+    top: 90em;
+}
+
+
+.aboutUs {
+    top: 10em;
+    padding: 5em;
+}
+
+.contact {
+    padding: 5em;
+}
+
+.text-index{
+    color: rgb(0,0,0);
+  font-size: 20px;
+  position: absolute;
+  top: 13em;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+
+  .button {
+
+    background-color: #9E9C9C; /* blue gray */
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: all 0.5s;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: absolute;
+    top: 25em;
+    left: 3em;
+}
+
+
+
+  .button-index {
+    background-color: #9E9C9C;
+    color: white;
+    border: 2px solid #9E9C9C;
+}
+
+.button-index:hover {
+    background-color: white;
+    color: #9E9C9C;
+}
+
+.next {
+    top: 20em;
+    padding: 5em;
+    left: -10em;
+}
